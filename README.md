@@ -1,3 +1,6 @@
+**note:**
+go 2 mapping-documentation branch por favor
+
 <p align="center">
   <img src="Artwork/osu logo white.jpg">
 </p>
